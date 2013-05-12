@@ -1,5 +1,5 @@
-#TITLE:warp05;
-#SUBTITLE:one highbpm;
+#TITLE:warp27;
+#SUBTITLE:highbpm with nstop;
 #ARTIST:djpohly;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
@@ -17,7 +17,7 @@
 #SELECTABLE:YES;
 #BPMS:0.000000=60.000000,4=999999,8=60
 ;
-#STOPS:
+#STOPS:4=-2
 ;
 #BGCHANGES:;
 #KEYSOUNDS:;
@@ -41,8 +41,8 @@ MM00
 0000
 0000
 ,  // measure 2
+0000
+0000
 2002
 3003
-0000
-0000
 ;

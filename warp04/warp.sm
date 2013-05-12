@@ -1,5 +1,5 @@
 #TITLE:warp04;
-#SUBTITLE:one nstop;
+#SUBTITLE:one long nstop;
 #ARTIST:djpohly;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
@@ -17,7 +17,7 @@
 #SELECTABLE:YES;
 #BPMS:0.000000=60.000000
 ;
-#STOPS:4=-2
+#STOPS:4=-10
 ;
 #BGCHANGES:;
 #KEYSOUNDS:;
@@ -36,6 +36,16 @@
 M000
 MM00
 ,  // measure 1
+0000
+0000
+0000
+0000
+,  // measure 2
+0000
+0000
+0000
+0000
+,  // measure 3
 0000
 0000
 2002
